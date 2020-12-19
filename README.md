@@ -7,7 +7,7 @@ Get real-time tweets and display on webpage with socket.io
 
 - I have also learnt how to Get , Put & Delete tweet using seprate functions.
 
-- Deployed on Heroku . [Channel link](https://discord.gg/GEgmh796)
+- Deployed on Heroku 👉👉 [Here](https://discord.gg/GEgmh796)
 
 
 > Here is a Screenshot of it looks and functionality.
