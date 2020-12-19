@@ -28,6 +28,6 @@ npm start & npm run dev
 
 ## License 
 
-[MIT](https://github.com/web-codegrammer/Simple-Discord-bot/blob/main/LICENSE)
+[MIT](https://github.com/web-codegrammer/Socket.io-Real-Time-Tweet-Stream/blob/main/LICENSE)
 
 Issued to ```Devanshu Vashishtha``` | Copyright (c) 2020-2021 web-codegrammer All Rights Reserved | 2020
