@@ -1,12 +1,11 @@
 {
-    "name": "Tweet_stream",
+    "name": "tweet_stream",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
     "scripts": {
         "start": "node server/index",
-        "dev": "nodemon server/index",
-        "build": "webpack"
+        "dev": "nodemon server/index"
     },
     "keywords": [],
     "author": "",
@@ -18,7 +17,6 @@
         "socket.io": "^3.0.4"
     },
     "devDependencies": {
-        "nodemon": "^2.0.6",
-        "webpack-cli": "^4.2.0"
+        "nodemon": "^2.0.6"
     }
 }
