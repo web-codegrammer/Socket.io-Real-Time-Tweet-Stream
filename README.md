@@ -30,4 +30,4 @@ npm start & npm run dev
 
 [MIT](https://github.com/web-codegrammer/Socket.io-Real-Time-Tweet-Stream/blob/main/LICENSE)
 
-Issued to ```Devanshu Vashishtha``` | Copyright (c) 2020-2021 web-codegrammer All Rights Reserved | 2020
+Issued to ```Devanshu Vashishtha``` | Copyright ©️ 2020-2021 web-codegrammer All Rights Reserved | 2020
