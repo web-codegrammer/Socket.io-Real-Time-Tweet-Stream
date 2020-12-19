@@ -10,6 +10,10 @@ Get real-time tweets and display on webpage with socket.io
 - Deployed on Heroku . [Channel link](https://discord.gg/GEgmh796)
 
 
+> Here is a screenshot of it looks and functionality.
+
+
+
 ## Operation
 Go to https://developers.twitter.com portal and get a Bearer token and add it to the .env file
 
