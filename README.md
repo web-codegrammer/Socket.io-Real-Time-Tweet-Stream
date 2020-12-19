@@ -10,8 +10,10 @@ Get real-time tweets and display on webpage with socket.io
 - Deployed on Heroku . [Channel link](https://discord.gg/GEgmh796)
 
 
-> Here is a screenshot of it looks and functionality.
+> Here is a Screenshot of it looks and functionality.
 
+![alt text](https://github.com/web-codegrammer/Socket.io-Real-Time-Tweet-Stream/blob/main/img/Tweet%20Stream.png)
+![alt](https://github.com/web-codegrammer/Socket.io-Real-Time-Tweet-Stream/blob/main/img/Tweet%20Stream%202.png)
 
 
 ## Operation
@@ -21,5 +23,11 @@ Setup:
 ```
 npm install
 
-npm start
+npm start & npm run dev
 ```
+
+## License 
+
+[MIT](https://github.com/web-codegrammer/Simple-Discord-bot/blob/main/LICENSE)
+
+Issued to ```Devanshu Vashishtha``` | Copyright (c) 2020-2021 web-codegrammer All Rights Reserved | 2020
